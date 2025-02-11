@@ -34,10 +34,10 @@ Default score using [CVSS 3.1](https://www.first.org/cvss/calculator/3.1). It m
 
 - Vector string: **CVSS:3.1/AV:A/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N/E:P/RL:O/RC:C**
 -  Score:
-   - Base: **4.3**
-   - Temporal: **3.9**
+	- Base: **4.3**
+	- Temporal: **3.9**
 - Severity:
-   - Base: **Medium**
+	- Base: **Medium**
 
 ## Requirements
 
